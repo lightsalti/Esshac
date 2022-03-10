@@ -1,4 +1,11 @@
 @font-face{
-  src: url(fonts/BhuTukaExpandedOne-Regular.ttf)
-    font-family: spechead
+  font-family: spechead;
+  src: url(fonts/BhuTukaExpandedOne-Regular.ttf);
+  format("opentype");
+}
+
+ h1 {
+        font-size:40px;
+        font-family:spechead;
+        color:white
 }
