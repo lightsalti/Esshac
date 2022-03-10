@@ -1,11 +1,6 @@
-@font-face{
-  font-family: spechead;
-  src: url(fonts/BhuTukaExpandedOne-Regular.ttf);
-  format("opentype");
-}
 
- h1 {
+ .head {
         font-size:40px;
-        font-family:spechead;
+        font-family:"Monaco";
         color:white
 }
